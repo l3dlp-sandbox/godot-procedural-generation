@@ -1,15 +1,3 @@
-## Branch remarks
-
-this branch contains updates to the original course code for Godot 4. The scripts will be annotated regardings changes like tihs:
-
-```
-# Camera zoom logic seems to be reversed between Godot 3 and 4, bigger numbers are now more zoomed in
-```
-
-I plan to update the scripts and remove these comments for future reference, when Godot 4 is standard and changes over Godot 3 are no longer relevant and comments about it amount to noise. Also the current effort is change as little as neccessary. Only later it will be about adapting to Godot 4 best practises.
-
--Thomas
-
 # Godot Procedural Generation
 
 ![project banner](./images/pcg-secrets.png)
@@ -72,10 +60,3 @@ If you want to contribute to the project, for instance, by fixing a bug or addin
 
 1. [Contributor guidelines](https://www.gdquest.com/docs/guidelines/contributing-to/gdquest-projects/).
 1. [GDScript style guide](https://www.gdquest.com/docs/guidelines/best-practices/godot-gdscript/)
-
-## Licenses
-
-This project is dual-licensed:
-
-- The source code is available under the MIT license.
-- Art assets (images, audio files) are [CC-By 4.0](https://creativecommons.org/licenses/by/4.0/). You can attribute them to `GDQuest and contributors (https://www.gdquest.com/)`.
